@@ -1,5 +1,5 @@
 # Simple-C-Compiler-
-1. Contains a lexer, a parser, an input, a script.sh(bash) file.
+1. Contains a SymbolTable(and acciated files), a lexer, a parser, an input, a script.sh(bash) file.
 2. lexer is flex/lex file which is acting as a lexical analyzer
 3. parser is yacc/bison file whics acts as a syntax analyzer/parser
 4. input.txt contains the c/c++ program that need to be matched by our grammar rule and regulations
