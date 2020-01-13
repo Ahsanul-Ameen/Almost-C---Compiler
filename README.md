@@ -9,7 +9,8 @@
    and produce two file code.asm and Code.asm. You can emulate those assembly programm in your 8086 emulator.
    Do not forget that our grammar is not so elaborated so if you get syntax error from yyparse or custom segmentation 
    fault then use gdb(gnu debugger..instructed in debug.sh file) or check the log file which causes...and update your C code
-8. ENJOY....!!!!\n
-#you have to put all files together in same directory\n
-#this project is an assignment purpose...you can take it as reference..but do not use and copy it blindly\n
+8. ENJOY....!!!!
+
+#you have to put all files together in same directory
+#this project is an assignment purpose...you can take it as reference..but do not use and copy it blindly
 #avoid plagiarism!!!
